@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**muzaffar161/muzaffar161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Muzaffar**, a software developer focused on **C++** and backend development.
 
-Here are some ideas to get you started:
+I like building real things — tools, services, systems — not just tutorials.  
+If an idea feels useful, I try to implement it and push it to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests are:
+- modern **C++**
+- system & low-level programming
+- backend architecture
+- performance and clean code
+
+Most of my projects come from real needs or freelance work, not demo apps.
+
+### 🔗 Links
+- 📷 Instagram: https://www.instagram.com/muzaffar_ravshanovich?igsh=d3V4MTliNzRmbHh1&utm_source=qr
+- 💼 LinkedIn: https://uz.linkedin.com/in/xusanov-muzaffar-8008813a9 
+- 📧 Email: muzaffarx606@gmail.com
+
+### 🛠 Tech stack
+- **C++** (modern C++, STL, performance-oriented code)
+- Backend: Node.js, NestJS
+- Frontend: React
+- Tools: Git, Linux, Docker 
+
+### ⚡ Fun facts
+- Prefer building over talking
+- Learn best by doing
+- Not a fan of overengineering
